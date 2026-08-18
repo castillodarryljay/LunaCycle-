@@ -1,0 +1,1 @@
+This folder is for your assets. Place your axolotl_mascot.png here.

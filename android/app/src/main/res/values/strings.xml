@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">LunaCycle</string>
+    <string name="title_activity_main">LunaCycle</string>
+    <string name="package_name">com.lunacycle.app</string>
+    <string name="custom_url_scheme">com.lunacycle.app</string>
+</resources>

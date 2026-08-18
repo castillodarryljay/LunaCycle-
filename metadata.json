@@ -1,0 +1,8 @@
+{
+  "name": "LunaCycle",
+  "description": "A beautiful and intuitive cycle tracking app with AI-powered insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
